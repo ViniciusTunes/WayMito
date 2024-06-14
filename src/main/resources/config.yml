@@ -1,0 +1,20 @@
+#    _____ ____  _   _ ______ _____ _____
+#  / ____/ __ \| \ | |  ____|_   _/ ____|
+# | |   | |  | |  \| | |__    | || |  __
+# | |   | |  | | . ` |  __|   | || | |_ |
+# | |___| |__| | |\  | |     _| || |__| |
+#  \_____\____/|_| \_|_|    |_____\_____|
+#
+
+MySQL:
+  ip: "localhost:3306"
+  database: "waymito_users"
+  username: "root"
+  password: "root"
+
+# MESSAGES CONFIGURATION:
+menu-name: "Menu Mito"
+arrow-next: "§5§lPróxima Página"
+lore-next: "§5para voltar a panterior"
+arrow-previous: "§5§lPágina Anterior"
+lore-previous: "§5Clique para voltar a página anterior"

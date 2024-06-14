@@ -1,0 +1,11 @@
+name: WayMito
+version: '1.0-SNAPSHOT'
+main: waymito.WayMito
+api-version: '1.20'
+commands:
+  mito:
+    description: open menu mito
+  setmito:
+    description: set mito on player
+  setnpcmito:
+    description: set npc with name of mito
